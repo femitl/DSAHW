@@ -1,10 +1,12 @@
 # DSAHW
 Homework Assignments for Data Structures and Algorithms class
+
 Name: Oluwafemi Lawal
 
 Programming Language: Java
 
 IDE / Editor: Visual Studio Code
+
 
 Answers to Home work Questions: 
 
@@ -30,7 +32,7 @@ Q10: Linear Search, because it can search an unsorted array by checking each ele
 
 Q11: Binary Search, because it eliminates about half of the remaining elements each time and has O(log n) complexity.
 
-<img width="655" height="288" alt="Screenshot 2026-09-22 at 11 44 36 PM" src="https://github.com/user-attachments/assets/90a1a478-692d-4065-a52e-a117587413f2" />
+Q12: <img width="655" height="288" alt="Screenshot 2026-09-22 at 11 44 36 PM" src="https://github.com/user-attachments/assets/90a1a478-692d-4065-a52e-a117587413f2" />
 
 
 
