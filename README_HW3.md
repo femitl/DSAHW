@@ -64,3 +64,8 @@ Q18: The ADT is the set of operations and rules — push(), pop(), peek(), isEmp
 Q19: The implementation is the array and the code that uses the array to implement the Stack's operations, such as push(), pop(), peek(), and isEmpty().
 
 Q20: No, the ADT does not change. Replacing the array with a linked list only changes how the Stack is implemented. It is still a Stack as long as it follows the same LIFO rules and operations.
+
+
+OUTPUT OF CODE:
+<img width="232" height="337" alt="Screenshot 2026-09-28 at 10 50 33 PM" src="https://github.com/user-attachments/assets/4a63146f-2639-4bfe-9247-04f593f64df8" />
+
